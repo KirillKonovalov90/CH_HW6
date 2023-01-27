@@ -1,4 +1,7 @@
-﻿void PointOfIntersectionCoordinates(double[] lineA, double[] lineB)
+﻿            // Программа принимает параметрические коэффициенты k1, b1, k2, b2 прямых A и B
+            // выводит координаты точки пересечения прямых М, если таковая имеется
+
+void PointOfIntersectionCoordinates(double[] lineA, double[] lineB)
 {
     double k1 = lineA[0], b1 = lineA[1], k2 = lineB[0], b2 = lineB[1], x, y;
     
