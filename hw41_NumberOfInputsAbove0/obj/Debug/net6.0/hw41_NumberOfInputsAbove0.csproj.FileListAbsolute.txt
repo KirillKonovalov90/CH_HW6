@@ -1,0 +1,15 @@
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\bin\Debug\net6.0\hw41_NumberOfInputsAbove0.exe
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\bin\Debug\net6.0\hw41_NumberOfInputsAbove0.deps.json
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\bin\Debug\net6.0\hw41_NumberOfInputsAbove0.runtimeconfig.json
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\bin\Debug\net6.0\hw41_NumberOfInputsAbove0.dll
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\bin\Debug\net6.0\hw41_NumberOfInputsAbove0.pdb
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.csproj.AssemblyReference.cache
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.AssemblyInfoInputs.cache
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.AssemblyInfo.cs
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.csproj.CoreCompileInputs.cache
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.dll
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\refint\hw41_NumberOfInputsAbove0.dll
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.pdb
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\hw41_NumberOfInputsAbove0.genruntimeconfig.cache
+C:\Users\waken\Desktop\обучение\Языки программирования\HW6\hw41_NumberOfInputsAbove0\obj\Debug\net6.0\ref\hw41_NumberOfInputsAbove0.dll
